@@ -1,4 +1,6 @@
-For reviewer- W&B url: https://wandb.ai/bskyles-western-governors-university/nyc_airbnb/overview
+For reviewer- 
+W&B url: https://wandb.ai/bskyles-western-governors-university/nyc_airbnb/overview
+Github url: https://github.com/beo-sky/Project-Build-an-ML-Pipeline-Starter
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
